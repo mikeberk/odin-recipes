@@ -1,0 +1,1 @@
+A simple main index page with links to recipes. This is primarily an HTML exercise.
